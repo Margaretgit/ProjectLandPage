@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
-
-/* Global styles */
 *,
 *::after,
 *::before{
@@ -169,7 +167,6 @@ h2{
     top: 15px;
     left: 15px;
     z-index: -1;
-
 }
 
 .testimonial p{
